@@ -2,8 +2,5 @@
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
-alphabet_array_upper = list(alphabet)
-print(alphabet_array_upper)
-
-alphabet_array_lower = list(alphabet.lower())
-print(alphabet_array_lower)
+print(list(alphabet))
+print(list(alphabet.lower()))
